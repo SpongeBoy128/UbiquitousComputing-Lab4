@@ -1,30 +1,44 @@
-Ubiquitous Computing - Lab 4
-Overview
-This Android application was developed as part of the Ubiquitous Computing module laboratory exercises.
-The application loads recipe information from a JSON file and displays the data using Android Fragments. The user can select a recipe from a list and view its ingredients and method.
+# Ubiquitous Computing \- Lab 4
 
-Features
-- Parse recipe data from a JSON file.
-- Display recipe names using a RecyclerView.
-- Display recipe ingredients and cooking method.
-- Support portrait and landscape orientations.
-- Fragment-based navigation.
-- Back stack support using the FragmentManager.
+## Module
 
-Technologies Used
+COMP H4025 \- Ubiquitous Computing
+
+## Assignment Overview
+
+This Android application was developed for Lab 4 of the Ubiquitous Computing module.
+
+The application reads recipe data from a JSON file and displays recipe information using Android Fragments and RecyclerViews.
+
+## Features
+
+- Read recipe information from a JSON file.
+- Display recipes using a RecyclerView.
+- View ingredients and cooking instructions.
+- Fragment\-based navigation.
+- Portrait mode support.
+- Landscape dual\-pane layout.
+- Back\-stack support using FragmentManager.
+
+## Technologies
+
 - Android Studio
 - Java
 - RecyclerView
-- Fragments
+- Android Fragments
 - JSON Parsing
 
-Project Structure
-- Activities
-- Fragments
-- Adapters
-- Models
-- Utilities
-- Assets
+## Folder Structure
 
-Author
-Student project developed for TU Dublin.
+RecipeBook/
+
+- activities
+- fragments
+- adapters
+- models
+- utils
+
+## Author
+
+Developed as part of Ubiquitous Computing Lab 4.
+
