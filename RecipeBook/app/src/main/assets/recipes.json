@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "Pasta",
+        "Minced Beef",
+        "Tomato Sauce"
+      ],
+      "method": "Cook pasta. Cook beef. Mix together."
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": [
+        "Flour",
+        "Milk",
+        "Eggs"
+      ],
+      "method": "Mix ingredients and fry."
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": [
+        "Chicken",
+        "Curry Sauce",
+        "Rice"
+      ],
+      "method": "Cook chicken and sauce. Serve with rice."
+    },
+    {
+      "name": "Cheese Pizza",
+      "ingredients": [
+        "Pizza Dough",
+        "Cheese",
+        "Tomato Base"
+      ],
+      "method": "Add toppings and bake."
+    },
+    {
+      "name": "Lasagne",
+      "ingredients": [
+        "Pasta Sheets",
+        "Minced Beef",
+        "Cheese Sauce"
+      ],
+      "method": "Layer ingredients and bake."
+    }
+  ]
+}
