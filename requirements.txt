@@ -1,0 +1,13 @@
+
+Ubiquitous Computing Lab 4 Requirements
+
+1. Parse a recipes.json file.
+2. Display five recipes using a RecyclerView.
+3. Implement RecipeListFragment.
+4. Implement RecipeDetailFragment.
+5. Display ingredients and cooking method.
+6. Support portrait mode navigation.
+7. Support landscape dual-pane display.
+8. Use FragmentManager navigation.
+9. Allow user navigation back to recipe list.
+10. Develop application using Java and Android Studio.
